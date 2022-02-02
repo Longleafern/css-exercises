@@ -4,3 +4,24 @@ div {
     font-size: 32px;
     text-align: center;
 }
+
+.odd {
+    background-color: lightpink;
+    font-family: verdana, DejaVu Sans, sans-serif;
+}
+
+#second_element {
+    color: blue;
+    font-size: 36px;
+
+}
+
+.third {
+    font-size: 24px;
+}
+
+#fourth_element {
+    background-color: lightgreen;
+    font-size: 24px;
+    font: bold;
+}
